@@ -1,4 +1,4 @@
-# rep-1
+# Google code jam 2017 / Python
 
 I am new to GitHub. Pardon my mistakes, if any. Thank you.
 
